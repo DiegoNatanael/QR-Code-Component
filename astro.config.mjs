@@ -5,8 +5,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://TuUsuarioGitHub.github.io',
-  base: '/qr-code-component', 
+  site: 'https://DiegoNatanael.github.io',
+  base: '/QR-Code-Component', 
   adapter: node({
     mode: 'standalone'
   }),
